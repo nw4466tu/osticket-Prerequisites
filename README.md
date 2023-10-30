@@ -27,7 +27,7 @@ This repository provides a comprehensive guide covering the prerequisites and in
 <h2>Installation Steps</h2>
 
 <p>
-Using the Azure Portal, create a Windows 10 Virtual Machine with 4 vcpus. When creating the Virtual Machine, create a new resource group named osTicket-RG and name the machine VM-osTicket to stay organized. Once the resource group and virtual machine are created, log in to the new machine using Remote Desktop.
+Utilizing the Azure Portal, 
 </p>
 <br />
 
