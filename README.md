@@ -27,7 +27,7 @@ This repository provides a comprehensive guide covering the prerequisites and in
 <h2>Installation Steps</h2>
 
 <p>
-Utilizing the Azure Portal, 
+Utilizing the Azure Portal, you can initiate the process bt creating a Windows 10 Virtual Machine equipped with 4 vCPUs. 
 </p>
 <br />
 
