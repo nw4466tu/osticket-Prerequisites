@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This repository outlines the prerequisites and installation of the open-source help desk ticketing system osTicket on a virtual machine.<br />
+This repository provides a comprehensive guide covering the prerequisites and installation process of the open-source help desk ticketing system, osTicket, on a virtual machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
