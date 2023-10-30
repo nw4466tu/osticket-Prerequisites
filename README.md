@@ -27,7 +27,7 @@ This repository provides a comprehensive guide covering the prerequisites and in
 <h2>Installation Steps</h2>
 
 <p>
-Utilizing the Azure Portal, you can initiate the process bt creating a Windows 10 Virtual Machine equipped with 4 vCPUs. During the Virtual Machine creation, it's important to establish a new resource group named as "osTicket-RG" for organizational purposes. 
+Utilizing the Azure Portal, you can initiate the process bt creating a Windows 10 Virtual Machine equipped with 4 vCPUs. During the Virtual Machine creation, it's important to establish a new resource group named as "osTicket-RG" for organizational purposes. Furthermore, designate the virtual machine with the name "VM-osTicket" to maintain clarity and organization within your Azure resources. Upon 
 </p>
 <br />
 
